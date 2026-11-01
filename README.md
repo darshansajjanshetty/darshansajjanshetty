@@ -28,7 +28,7 @@
 
 ## 👨‍💻 About Me
 
-```python
+
 class Developer:
 
     def __init__(self):
@@ -49,7 +49,6 @@ class Developer:
 
 me = Developer()
 me.say_hello()
-```
 
 - 🔭 Building full-stack web applications and RESTful APIs.
 - 🌱 Currently strengthening Python, React.js and Data Structures & Algorithms.
